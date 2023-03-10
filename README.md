@@ -1,0 +1,1 @@
+## Stereotype: Type Utility Library
