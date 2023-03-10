@@ -1,0 +1,11 @@
+{
+  "include": ["packages"],
+  "compilerOptions": {
+    "target": "es2016",
+    "esModuleInterop": true,
+    "outDir": "./dist",
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
